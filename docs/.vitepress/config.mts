@@ -8,12 +8,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
 
-  head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/the-french-apple-wiki/logo.svg' }],
-  ],
-
   themeConfig: {
-    logo: '/logo.svg',
     siteTitle: 'The French Apple Wiki',
 
     nav: [

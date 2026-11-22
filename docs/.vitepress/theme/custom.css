@@ -15,15 +15,6 @@
   --vp-home-hero-name-background: linear-gradient(120deg, #f5f5f7 25%, #2997ff);
 }
 
-.dark .VPNavBarTitle .logo,
-.dark .VPHero .image-src {
-  filter: invert(1);
-}
-
-.VPHero .image-src {
-  max-height: 240px;
-}
-
 .wiki-media {
   display: flex;
   flex-wrap: wrap;

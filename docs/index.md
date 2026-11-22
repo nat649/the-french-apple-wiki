@@ -5,9 +5,6 @@ hero:
   name: "The French Apple Wiki"
   text: "L'encyclopédie francophone dédiée à Apple"
   tagline: "Appareils, systèmes d'exploitation, histoire, jailbreak et Apple Internals — The Apple wiki, for baguette people."
-  image:
-    src: /logo.svg
-    alt: The French Apple Wiki
   actions:
     - theme: brand
       text: Explorer les Appareils
