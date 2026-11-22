@@ -34,7 +34,6 @@ Retrouvez tous les appareils Apple recensés sur **The French Apple Wiki** : Mac
 - [iPhone 7](/appareils/iphone/iphone-7)
 - [iPhone 8](/appareils/iphone/iphone-8)
 - [iPhone X](/appareils/iphone/iphone-x)
-- [iPhone X (Legacy)](/appareils/iphone/iphone-x-legacy)
 - [Liste des iPhones X's](/appareils/iphone/liste-iphones-x)
 
 ## iPad

@@ -138,10 +138,6 @@ export default defineConfig({
         "link": "/appareils/iphone/iphone-x"
       },
       {
-        "text": "iPhone X (Legacy)",
-        "link": "/appareils/iphone/iphone-x-legacy"
-      },
-      {
         "text": "Liste des iPhones X's",
         "link": "/appareils/iphone/liste-iphones-x"
       }

@@ -55,7 +55,7 @@ L'**iPhone** est la gamme de smartphones conçue et commercialisée par [Apple I
 - [iPhone 4](/appareils/iphone/iphone-4) · [iPhone 4S](/appareils/iphone/iphone-4s)
 - [iPhone 5](/appareils/iphone/iphone-5) · [iPhone 5s](/appareils/iphone/iphone-5s)
 - [iPhone 6S](/appareils/iphone/iphone-6s) · [iPhone 7](/appareils/iphone/iphone-7) · [iPhone 8](/appareils/iphone/iphone-8)
-- [iPhone X](/appareils/iphone/iphone-x) · [iPhone X (Legacy)](/appareils/iphone/iphone-x-legacy) · [Liste des iPhones X's](/appareils/iphone/liste-iphones-x)
+- [iPhone X](/appareils/iphone/iphone-x) · [Liste des iPhones X's](/appareils/iphone/liste-iphones-x)
 
 ## Voir aussi
 
