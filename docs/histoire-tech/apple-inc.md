@@ -16,6 +16,13 @@ description: "Présentation de l'entreprise Apple Inc. : fondation en 1976, cris
 | **Produits phares** | [iPhone](/appareils/iphone/iphone), [Macintosh](/appareils/mac/macintosh), [iPad](/appareils/ipad/ipad), [Apple Watch](/appareils/apple-watch/apple-watch), AirPods, [Apple Vision Pro](/appareils/autres/apple-vision-pro) |
 | **Systèmes & Services** | [macOS](/logiciels/mac-os), [iOS](/logiciels/ios), [watchOS](/logiciels/watchos), [App Store](/logiciels/app-store), [iCloud](/logiciels/icloud), [Apple One](/logiciels/apple-one) |
 
+<div class="wiki-media">
+<figure class="wiki-figure">
+  <img src="/images/Apple.jpg" alt="Apple" loading="lazy" />
+  <figcaption>Apple Inc.</figcaption>
+</figure>
+</div>
+
 ## Grandes périodes historiques
 
 ### 1. Les débuts et la révolution de l'ordinateur personnel (1976–1985)
@@ -45,6 +52,6 @@ Sous la direction de **[Tim Cook](/histoire-tech/tim-cook)**, Apple devient la p
 
 ## Voir aussi
 
-- [Apple](/histoire-tech/apple) · [Logo Apple](/histoire-tech/logo-apple) · [Apple Park](/histoire-tech/apple-park)
+- [Logo Apple](/histoire-tech/logo-apple) · [Apple Park](/histoire-tech/apple-park)
 - [Steve Jobs](/histoire-tech/steve-jobs) · [Tim Cook](/histoire-tech/tim-cook) · [NeXT](/histoire-tech/next)
 - [WWDC](/histoire-tech/wwdc) · [(PRODUCT)RED](/histoire-tech/product-red)

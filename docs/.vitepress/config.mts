@@ -512,10 +512,6 @@ export default defineConfig({
     "collapsed": true,
     "items": [
       {
-        "text": "Apple",
-        "link": "/histoire-tech/apple"
-      },
-      {
         "text": "Apple Inc.",
         "link": "/histoire-tech/apple-inc"
       },

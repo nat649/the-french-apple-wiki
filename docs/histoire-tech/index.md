@@ -8,7 +8,6 @@ L’histoire d’Apple, ses figures clés, ses architectures matérielles et ses
 
 ## Histoire, Personnalités & Tech
 
-- [Apple](/histoire-tech/apple)
 - [Apple Inc.](/histoire-tech/apple-inc)
 - [Steve Jobs](/histoire-tech/steve-jobs)
 - [Tim Cook](/histoire-tech/tim-cook)

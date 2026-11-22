@@ -20,6 +20,6 @@ Cet article fait partie de la reconstruction de **The French Apple Wiki**. Cliqu
 
 ## Voir aussi
 
-- [Apple](/histoire-tech/apple)
+- [Apple Inc.](/histoire-tech/apple-inc)
 - [iOS](/logiciels/ios)
 - [Mac OS / macOS](/logiciels/mac-os)
